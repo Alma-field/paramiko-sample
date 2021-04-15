@@ -10,6 +10,12 @@ pipを使用する方法
 pip install paramiko
 ```
 
+もしくは
+
+```shell
+pip install -r requirements.txt
+```
+
 ###設定  
 **config.py**へ設定を書き込みます。<br>
 設定は以下の通りです。
